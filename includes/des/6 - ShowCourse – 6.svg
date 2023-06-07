@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="600" viewBox="0 0 1024 600">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="248" height="380" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-_6_-_ShowCourse_6">
+      <rect width="1024" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="_6_-_ShowCourse_6" data-name="6 - ShowCourse – 6" clip-path="url(#clip-_6_-_ShowCourse_6)">
+    <rect width="1024" height="600" fill="#fff"/>
+    <g id="Header">
+      <rect id="Rectangle_1695" data-name="Rectangle 1695" width="1024" height="40" fill="#f3f3f3"/>
+      <g id="Group_162" data-name="Group 162" transform="translate(-368.5 -989.904)">
+        <g id="Iconly_Light_Arrow_-_Left_2" data-name="Iconly/Light/Arrow - Left 2" transform="translate(1346.5 1002.904)">
+          <g id="Arrow_-_Left_2" data-name="Arrow - Left 2" transform="translate(7) rotate(90)">
+            <path id="Stroke_1" data-name="Stroke 1" d="M14,7,7,0,0,7" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+        <g id="Iconly_Light_Arrow_-_Left_2-2" data-name="Iconly/Light/Arrow - Left 2" transform="translate(1345 997.904)">
+          <g id="Arrow_-_Left_2-2" data-name="Arrow - Left 2" transform="translate(15.5 5) rotate(90)">
+            <path id="Stroke_1-2" data-name="Stroke 1" d="M14,0,7,7,0,0" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+      <path id="Line_186" d="M14,.476H0" transform="translate(932 19.524)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g id="LeftBar" transform="translate(0 40)">
+      <rect id="Rectangle_1683" data-name="Rectangle 1683" width="248" height="560" transform="translate(0)" fill="#f3f3f3"/>
+      <g id="Group_16303" data-name="Group 16303" transform="translate(0 -40)">
+        <line id="Line_2" data-name="Line 2" x2="248" transform="translate(0 128)" fill="none" stroke="rgba(111,58,249,0.25)" stroke-width="1"/>
+        <path id="Rectangle_8" data-name="Rectangle 8" d="M3,0H185a3,3,0,0,1,3,3V3a0,0,0,0,1,0,0H0A0,0,0,0,1,0,3V3A3,3,0,0,1,3,0Z" transform="translate(32 125)" fill="#6f3af9"/>
+        <text id="جلسه_ها" data-name="جلسه‌ها" transform="translate(126 112)" fill="#6f3af9" font-size="12" font-family="GeezaPro, Geeza Pro"><tspan x="-15.521" y="0">جلسه‌ها</tspan></text>
+      </g>
+      <g id="Scroll_Group_3" data-name="Scroll Group 3" transform="translate(0 88)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <g id="Group_16299" data-name="Group 16299" transform="translate(-16 -129)">
+          <g id="Group_16291" data-name="Group 16291" transform="translate(16 129)">
+            <rect id="Rectangle_7" data-name="Rectangle 7" width="248" height="181" transform="translate(0)" fill="#f3f3f3"/>
+            <text id="_1._مقدمه" data-name="‏1. مقدمه" transform="translate(236 22)" fill="#212121" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-43.129" y="0">مقدمه</tspan><tspan y="0" font-family="Helvetica">. </tspan><tspan y="0" font-family="Helvetica">1</tspan><tspan y="0" font-family="Helvetica">‏</tspan></text>
+            <text id="_00:22:32" data-name="00:22:32" transform="translate(12 22)" fill="#585858" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">00:22:32</tspan></text>
+            <text id="_00:22:32-2" data-name="00:22:32" transform="translate(12 64)" fill="#585858" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">00:22:32</tspan></text>
+            <g id="Group_16292" data-name="Group 16292" transform="translate(0 37)">
+              <text id="عرض_سلام_و_خسته_نباشید" data-name="عرض سلام و خسته نباشید" transform="translate(62 15)" fill="#212121" font-size="12" font-family="GeezaPro, Geeza Pro"><tspan x="-113.109" y="11">نباشید</tspan><tspan y="11" font-family="Helvetica-Light, Helvetica" font-weight="300"> </tspan><tspan y="11">خسته</tspan><tspan y="11" font-family="Helvetica-Light, Helvetica" font-weight="300"> </tspan><tspan y="11">و</tspan><tspan y="11" font-family="Helvetica-Light, Helvetica" font-weight="300"> </tspan><tspan y="11">سلام</tspan><tspan y="11" font-family="Helvetica-Light, Helvetica" font-weight="300"> </tspan><tspan y="11">عرض</tspan></text>
+              <text id="_1" data-name="1" transform="translate(209 27)" fill="#212121" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-6.672" y="0">1</tspan></text>
+              <text id="_." data-name="." transform="translate(212 27)" fill="#212121" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-3.336" y="0">.</tspan></text>
+              <text id="_1-2" data-name="1" transform="translate(216 27)" fill="#212121" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-6.672" y="0">1</tspan></text>
+              <g id="Iconly_Light_Play" data-name="Iconly/Light/Play" transform="translate(220 16)">
+                <g id="Play">
+                  <path id="Stroke_1-3" data-name="Stroke 1" d="M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_3" data-name="Stroke 3" d="M4.128,3.175A11.932,11.932,0,0,1,1.146,5.21a3.187,3.187,0,0,1-.531.171.4.4,0,0,1-.367-.216,4.192,4.192,0,0,1-.133-.551A13.284,13.284,0,0,1,0,2.691,12.5,12.5,0,0,1,.126.7C.149.579.214.291.234.245a.4.4,0,0,1,.181-.2A.4.4,0,0,1,.614,0a2.792,2.792,0,0,1,.46.142A11.826,11.826,0,0,1,4.12,2.2c.054.058.2.215.229.247a.4.4,0,0,1,.009.482C4.331,2.962,4.178,3.122,4.128,3.175Z" transform="translate(6.312 5.198)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_16294" data-name="Group 16294" transform="translate(0 133)">
+              <rect id="Rectangle_791" data-name="Rectangle 791" width="248" height="48" fill="rgba(1,240,147,0)"/>
+              <text id="تکلیف_دوم" data-name="تکلیف دوم" transform="translate(193 27)" fill="#212121" font-size="12" font-family="GeezaPro, Geeza Pro"><tspan x="-41.631" y="0">دوم</tspan><tspan y="0" font-family="Helvetica-Light, Helvetica" font-weight="300"> </tspan><tspan y="0">تکلیف</tspan></text>
+              <text id="_1-3" data-name="1" transform="translate(205 27)" fill="#212121" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-6.672" y="0">1</tspan></text>
+              <text id="_.-2" data-name="." transform="translate(208 27)" fill="#212121" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="-3.336" y="0">.</tspan></text>
+              <text id="_3" data-name="3" transform="translate(208 27)" fill="#212121" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">3</tspan></text>
+              <g id="Downlaod" transform="translate(12 12)">
+                <path id="Stroke_1-4" data-name="Stroke 1" d="M8.426,0H0" transform="translate(12.157 6.171) rotate(90)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+                <path id="Stroke_3-2" data-name="Stroke 3" d="M0,0,2.465,2.455,0,4.909" transform="translate(14.611 12.132) rotate(90)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+                <path id="Stroke_4" data-name="Stroke 4" d="M0,0V10.219" transform="translate(17.266 17.441) rotate(90)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+                <g id="Ellipse_50" data-name="Ellipse 50" transform="translate(0)" fill="none" stroke="#212121" stroke-width="1.5">
+                  <circle cx="12" cy="12" r="12" stroke="none"/>
+                  <circle cx="12" cy="12" r="11.25" fill="none"/>
+                </g>
+              </g>
+              <g id="Iconly_Light_Paper" data-name="Iconly/Light/Paper" transform="translate(222.52 16)">
+                <g id="Paper" transform="translate(0 0)">
+                  <path id="Stroke_1-5" data-name="Stroke 1" d="M8.739,0H3.195A3.183,3.183,0,0,0,0,3.108v8.927a3.189,3.189,0,0,0,3.195,3.259H9.852a3.239,3.239,0,0,0,3.108-3.259V4.4Z" transform="translate(0 0.01)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_3-3" data-name="Stroke 3" d="M0,0V2.424A2.145,2.145,0,0,0,2.14,4.57c1.1,0,2.22,0,2.3,0" transform="translate(8.52 0)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_5" data-name="Stroke 5" d="M4.5.5H0" transform="translate(3.864 10.173)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_7" data-name="Stroke 7" d="M2.8.5H0" transform="translate(3.864 6.046)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                </g>
+              </g>
+              <g id="Iconly_Light_Paper-2" data-name="Iconly/Light/Paper" transform="translate(222.52 16)">
+                <g id="Paper-2" data-name="Paper" transform="translate(0 0)">
+                  <path id="Stroke_1-6" data-name="Stroke 1" d="M8.739,0H3.195A3.183,3.183,0,0,0,0,3.108v8.927a3.189,3.189,0,0,0,3.195,3.259H9.852a3.239,3.239,0,0,0,3.108-3.259V4.4Z" transform="translate(0 0.01)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_3-4" data-name="Stroke 3" d="M0,0V2.424A2.145,2.145,0,0,0,2.14,4.57c1.1,0,2.22,0,2.3,0" transform="translate(8.52 0)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_5-2" data-name="Stroke 5" d="M4.5.5H0" transform="translate(3.864 10.173)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_7-2" data-name="Stroke 7" d="M2.8.5H0" transform="translate(3.864 6.046)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_16293" data-name="Group 16293" transform="translate(0 85)">
+              <rect id="Rectangle_791-2" data-name="Rectangle 791" width="248" height="48" fill="#01f093"/>
+              <text id="_تکلیف_به_شدت_خسته_کننده" data-name=" تکلیف به شدت خسته کننده" transform="translate(195 27)" fill="#212121" font-size="12" font-family="GeezaPro, Geeza Pro"><tspan x="-115.393" y="0">کننده</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">خسته</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">شدت</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">به</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">تکلیف</tspan><tspan y="0" font-family="Helvetica"> </tspan></text>
+              <text id="_1-4" data-name="1" transform="translate(207 27)" fill="#212121" font-size="12" font-family="Helvetica"><tspan x="-6.674" y="0">1</tspan></text>
+              <text id="_.-3" data-name="." transform="translate(210 27)" fill="#212121" font-size="12" font-family="Helvetica"><tspan x="-3.334" y="0">.</tspan></text>
+              <text id="_2" data-name="2" transform="translate(210 27)" fill="#212121" font-size="12" font-family="Helvetica"><tspan x="0" y="0">2</tspan></text>
+              <g id="Iconly_Light_Paper-3" data-name="Iconly/Light/Paper" transform="translate(222.52 16)">
+                <g id="Paper-3" data-name="Paper" transform="translate(0 0)">
+                  <path id="Stroke_1-7" data-name="Stroke 1" d="M8.739,0H3.195A3.183,3.183,0,0,0,0,3.108v8.927a3.189,3.189,0,0,0,3.195,3.259H9.852a3.239,3.239,0,0,0,3.108-3.259V4.4Z" transform="translate(0 0.01)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_3-5" data-name="Stroke 3" d="M0,0V2.424A2.145,2.145,0,0,0,2.14,4.57c1.1,0,2.22,0,2.3,0" transform="translate(8.52 0)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_5-3" data-name="Stroke 5" d="M4.5.5H0" transform="translate(3.864 10.173)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                  <path id="Stroke_7-3" data-name="Stroke 7" d="M2.8.5H0" transform="translate(3.864 6.046)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_16295" data-name="Group 16295" transform="translate(16 314)">
+            <rect id="Rectangle_7-2" data-name="Rectangle 7" width="248" height="37" transform="translate(0)" fill="#e8e8e8"/>
+            <text id="_2._مرور_اصول_رنگ_آمیزی" data-name="‏2. مرور اصول رنگ‌آمیزی" transform="translate(236 22)" fill="#212121" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-120.554" y="0">رنگ‌آمیزی</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">اصول</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">مرور</tspan><tspan y="0" font-family="Helvetica">. </tspan><tspan y="0" font-family="Helvetica">2</tspan><tspan y="0" font-family="Helvetica">‏</tspan></text>
+            <text id="_00:36:56" data-name="00:36:56" transform="translate(12 22)" fill="#585858" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">00:36:56</tspan></text>
+          </g>
+          <g id="Group_16297" data-name="Group 16297" transform="translate(16 396)">
+            <rect id="Rectangle_7-3" data-name="Rectangle 7" width="248" height="37" transform="translate(0)" fill="#e8e8e8"/>
+            <text id="_4._ساخت_پالت_رنگی" data-name="‏4. ساخت پالت رنگی" transform="translate(236 22)" fill="#212121" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-100.009" y="0">رنگی</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">پالت</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">ساخت</tspan><tspan y="0" font-family="Helvetica">. </tspan><tspan y="0" font-family="Helvetica">4</tspan><tspan y="0" font-family="Helvetica">‏</tspan></text>
+            <text id="_02:58:20" data-name="02:58:20" transform="translate(12 22)" fill="#585858" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">02:58:20</tspan></text>
+          </g>
+          <g id="Group_16300" data-name="Group 16300" transform="translate(16 478)">
+            <rect id="Rectangle_7-4" data-name="Rectangle 7" width="248" height="37" transform="translate(0)" fill="#e8e8e8"/>
+            <text id="_6._بیسار" data-name="‏6. بیسار" transform="translate(236 22)" fill="#212121" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-43.983" y="0">بیسار</tspan><tspan y="0" font-family="Helvetica">. </tspan><tspan y="0" font-family="Helvetica">6</tspan><tspan y="0" font-family="Helvetica">‏</tspan></text>
+            <text id="_02:58:20-2" data-name="02:58:20" transform="translate(12 22)" fill="#585858" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">02:58:20</tspan></text>
+          </g>
+          <g id="Group_16298" data-name="Group 16298" transform="translate(16 437)">
+            <rect id="Rectangle_7-5" data-name="Rectangle 7" width="248" height="37" transform="translate(0)" fill="#f3f3f3"/>
+            <text id="_5._بهمان" data-name="‏5. بهمان" transform="translate(236 22)" fill="#212121" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-43.363" y="0">بهمان</tspan><tspan y="0" font-family="Helvetica">. </tspan><tspan y="0" font-family="Helvetica">5</tspan><tspan y="0" font-family="Helvetica">‏</tspan></text>
+            <text id="_02:58:20-3" data-name="02:58:20" transform="translate(12 22)" fill="#585858" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">02:58:20</tspan></text>
+          </g>
+          <g id="Group_16296" data-name="Group 16296" transform="translate(16 355)">
+            <rect id="Rectangle_7-6" data-name="Rectangle 7" width="248" height="37" rx="10" transform="translate(0)" fill="#f3f3f3"/>
+            <text id="_3._پردازش_رنگ_در_فلان_نرم_افزار" data-name="‏3. پردازش رنگ در فلان نرم‌افزار" transform="translate(236 22)" fill="#212121" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-154.092" y="0">نرم‌افزار</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">فلان</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">در</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">رنگ</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">پردازش</tspan><tspan y="0" font-family="Helvetica">. </tspan><tspan y="0" font-family="Helvetica">3</tspan><tspan y="0" font-family="Helvetica">‏</tspan></text>
+            <text id="_01:47:09" data-name="01:47:09" transform="translate(12 22)" fill="#585858" font-size="12" font-family="Helvetica-Light, Helvetica" font-weight="300"><tspan x="0" y="0">01:47:09</tspan></text>
+          </g>
+        </g>
+      </g>
+      <line id="Line_128" data-name="Line 128" x2="248" transform="translate(1 468)" fill="none" stroke="rgba(111,58,249,0.25)" stroke-width="1"/>
+      <g id="Group_16301" data-name="Group 16301" transform="translate(0 -40)">
+        <g id="Primary-Small" transform="translate(43 520)">
+          <rect id="Rectangle_68" data-name="Rectangle 68" width="162" height="28" rx="14" fill="#6f3af9"/>
+          <text id="سایت_سازنده_دوره" data-name="سایت سازنده دوره" transform="translate(91 18.083)" fill="#fff" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-44.937" y="0">دوره</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">سازنده</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">سایت</tspan></text>
+          <g id="Iconly_Light_Arrow_-_Down_2" data-name="Iconly/Light/Arrow - Down 2" transform="translate(21.832 9.042) rotate(90)">
+            <g id="Arrow_-_Down_2" data-name="Arrow - Down 2">
+              <path id="Stroke_1-8" data-name="Stroke 1" d="M11.083,0,5.542,5.542,0,0" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+            </g>
+          </g>
+        </g>
+        <g id="Secondary-Small" transform="translate(43 560)">
+          <g id="Rectangle_72" data-name="Rectangle 72" fill="none" stroke="#6f3af9" stroke-width="1">
+            <rect width="162" height="28" rx="14" stroke="none"/>
+            <rect x="0.5" y="0.5" width="161" height="27" rx="13.5" fill="none"/>
+          </g>
+          <text id="صفحه_دوره_در_سایت" data-name="صفحه دوره در سایت" transform="translate(89 18.077)" fill="#6f3af9" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-51.072" y="0">سایت</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">در</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">دوره</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">صفحه</tspan></text>
+          <g id="Iconly_Light_Arrow_-_Down_2-2" data-name="Iconly/Light/Arrow - Down 2" transform="translate(21.271 9.035) rotate(90)">
+            <g id="Arrow_-_Down_2-2" data-name="Arrow - Down 2">
+              <path id="Stroke_1-9" data-name="Stroke 1" d="M11.083,0,5.542,5.542,0,0" fill="none" stroke="#6f3af9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Secondary-Small-2" data-name="Secondary-Small" transform="translate(20 16)">
+        <g id="Rectangle_72-2" data-name="Rectangle 72" fill="none" stroke="#6f3af9" stroke-width="1">
+          <rect width="104" height="28" rx="14" stroke="none"/>
+          <rect x="0.5" y="0.5" width="103" height="27" rx="13.5" fill="none"/>
+        </g>
+        <text id="بازگشت" transform="translate(55 18.077)" fill="#6f3af9" font-size="14" font-family="GeezaPro, Geeza Pro"><tspan x="-19.722" y="0">بازگشت</tspan></text>
+        <g id="Iconly_Light_Arrow_-_Left_2-3" data-name="Iconly/Light/Arrow - Left 2" transform="translate(18.5 7)">
+          <g id="Arrow_-_Left_2-3" data-name="Arrow - Left 2" transform="translate(7) rotate(90)">
+            <path id="Stroke_1-10" data-name="Stroke 1" d="M14,0,7,7,0,0" fill="none" stroke="#6f3af9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Primary-Large" transform="translate(466 296)">
+      <rect id="Rectangle_68-2" data-name="Rectangle 68" width="340" height="48" rx="10" fill="#6f3af9"/>
+      <text id="باز_کردن_سند" data-name="باز کردن سند" transform="translate(170 28.5)" fill="#fff" font-size="16" font-family="GeezaPro, Geeza Pro"><tspan x="-37.574" y="0">سند</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">کردن</tspan><tspan y="0" font-family="Helvetica"> </tspan><tspan y="0">باز</tspan></text>
+    </g>
+  </g>
+</svg>

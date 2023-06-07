@@ -1,0 +1,102 @@
+.con{
+    display: flex;
+    border-radius: 1rem;
+    flex-direction: column;
+    width: 100%;
+    min-height: 6rem;
+    padding: 1rem 3.6rem;
+    padding-left: 1rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
+.close{
+    height: 1.5rem;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+}
+
+.wrapper{
+    width: 100%;
+    direction: ltr;
+}
+
+.name{
+    font-size: 0.85rem;
+    width: 100%;
+    font-weight: 500;
+    direction: rtl;
+    text-align: right;
+}
+
+.title{
+    font-size: 0.75rem;
+    width: 100%;
+    direction: rtl;
+    text-align: right;
+}
+
+.progress{
+    width: 100% !important;
+    margin-left: 2rem;
+}
+
+.row1{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    direction: rtl;
+    margin-top: 1rem;
+}
+
+.row2{
+    display: flex;
+    align-items: center;
+}
+
+.status_tx{
+    width: 5rem;
+    margin-left: 2rem;
+    padding-right: 0.5rem;
+    white-space: nowrap;
+    font-size: 0.82rem;
+    user-select: none;
+}
+
+.status_loading{
+    width: 5rem;
+    margin-left: 7rem;
+    padding-right: 0.5rem;
+}
+
+.change_btn{
+    width: 5rem;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 0.82rem;
+    transition: 200ms ease;
+    user-select: none;
+}
+
+.change_btn:active{
+    transform: scale(0.95);
+}
+
+.perentage{
+    user-select: none;
+    width: calc(100% - 12rem);
+    font-family: IranSansEng;
+    padding-left: 2rem;
+    direction: rtl;
+    text-align: left;
+    font-size: 0.82rem;
+}
+
+.show_content{
+    width: 8rem;
+    position: absolute;
+    left: 2rem;
+    bottom: 0.5rem;
+}

@@ -1,0 +1,59 @@
+.con{
+    width: 100%;
+    direction: rtl;
+    text-align: right;
+    padding-bottom: 1rem;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 0.94rem;
+    margin-top: 1rem;
+    padding-right: 0.5rem;
+}
+
+.dir_sec{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    direction: rtl;
+    margin-top: 1.2rem;
+}
+
+.dir_t1{
+    padding-right: 0.5rem;
+    margin-left: 0rem;
+    font-size: 0.76rem;
+}
+
+.dir_t2{
+    max-width: calc(100% - 14rem);
+    padding: 0 1rem;
+    font-size: 0.8rem;
+    padding-top: 0.2rem;
+    direction: ltr;
+}
+
+.change_dir{
+    height: 2rem;
+    width: 6rem;
+}
+
+.delete_btn{
+    width: 12rem;
+    height: 2.2rem;
+    padding: 0 !important;
+    direction: ltr;
+    margin-top: 1.6rem;
+}
+
+.delete_title{
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+}
+
+.delete_icon{
+    height: 1.4rem;
+    margin-left: 0.4rem;
+}

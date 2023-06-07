@@ -1,0 +1,19 @@
+
+.con{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    direction: ltr;
+}
+
+.right_side_con{
+    width: 16rem;
+    height: 100%;
+    transition: 300ms ease;
+}
+
+.player_con{
+    width: calc(100% - 16rem);
+    height: 100%;
+    transition: 300ms ease;
+}

@@ -1,0 +1,32 @@
+.modal_con{
+    padding: 1.5rem 2rem !important;
+    width: 34rem !important;
+}
+
+.con{
+    width: 100%;
+    direction: rtl;
+    text-align: right;
+}
+
+.title{
+    font-weight: 500;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
+.btn_con{
+    display: flex;
+    margin-top: 2rem;
+    width: 100%;
+    direction: ltr;
+}
+
+.left_btn{
+    margin-right: 1rem;
+    width: 8rem !important;
+}
+
+.right_btn{
+    width: 8rem !important;
+}

@@ -1,0 +1,54 @@
+.con{
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    direction: rtl;
+}
+
+.contact_card{
+    padding: 1rem 1.6rem;
+    border-radius: 1rem;
+    width: 32rem;
+}
+
+.title1{
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.row1{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.phone{
+    text-decoration: underline;
+    cursor: default;
+    font-family: sans-serif;
+    font-weight: 700;
+    
+}
+
+.info1{
+    margin-top: 0.3rem;
+    font-size: 0.75rem;
+}
+
+.row2{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.message_btn{
+    width: 14rem;
+    margin-left: 1rem;
+}
+
+.help_btn{
+    width: 14rem;
+}

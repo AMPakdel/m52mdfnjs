@@ -1,0 +1,27 @@
+.con{
+    height: 100%;
+    width: 100%;
+    padding: 1rem 2rem;
+    padding-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.wrapper{
+    height: auto;
+    direction: rtl;
+}
+
+.downloadings_con{
+
+}
+
+.completeds_con{
+    margin-top: 2rem;
+}
+
+.sec_title{
+    font-weight: 700;
+    padding-right: 0.5rem;
+}

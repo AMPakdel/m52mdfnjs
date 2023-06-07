@@ -1,0 +1,39 @@
+.con{
+    width: 100%;
+    direction: rtl;
+    text-align: right;
+}
+
+.change_title{
+    font-weight: 500;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
+.btn_con{
+    display: flex;
+    margin-top: 1rem;
+    width: 100%;
+    direction: ltr;
+}
+
+.left_btn{
+    margin-right: 1rem;
+    width: 9rem !important;
+}
+
+.right_btn{
+    width: 9rem !important;
+}
+
+.skip_sec{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    direction: rtl;
+    margin: 1rem 0;
+}
+
+.skip_sec div{
+    margin-right: 0.5rem;
+}

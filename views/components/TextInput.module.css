@@ -1,0 +1,44 @@
+.tput_con{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    height: 3.5rem;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1rem;
+    background-color: #FFF;
+}
+
+.tput_title{
+    font-size: 0.86rem;
+    color: #666666;
+    margin-right: 0.2rem;
+    user-select: none;
+}
+
+.tput_input{
+    padding: 0.4rem 1rem;
+    border-radius: 1rem;
+    color: rgb(63, 63, 63);
+    width: 100%;
+    direction: rtl;
+}
+
+.error{
+    position: absolute;
+    bottom: -1.3rem;
+    font-size: 0.7rem;
+    right: 1rem;
+    font-weight: 500;
+    direction: rtl;
+    white-space: nowrap;
+}
+
+.top_title{
+    position: absolute;
+    background-color: white;
+    padding: 0 0.5rem;
+    top: -0.5rem;
+    right: 0.8rem;
+    font-size: 0.66rem;
+}

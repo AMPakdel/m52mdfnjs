@@ -1,0 +1,28 @@
+.audio_view_finished{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 105%;
+}
+
+.audio_center_img{
+    height: 14rem;
+    width: 14rem;
+    padding-bottom: 2rem;
+}
+
+.audio_prev_title{
+    position: absolute;
+    direction: rtl;
+    top: 2rem;
+    right: 3rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 0.3rem 0.8rem;
+    border-radius: 0.8rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+}

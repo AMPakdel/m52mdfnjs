@@ -1,0 +1,28 @@
+.con{
+    display: flex;
+    border-radius: 1rem;
+    flex-direction: column;
+    width: 40rem;
+    min-height: 10rem;
+    padding: 1.5rem;
+    direction: rtl;
+}
+
+.closable{
+    padding: 1.5rem 3.6rem;
+    padding-left: 2rem;
+}
+
+.close{
+    height: 1.5rem;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+}
+
+.title{
+    width: 100%;
+    font-weight: 500;
+    direction: rtl;
+    text-align: right;
+}

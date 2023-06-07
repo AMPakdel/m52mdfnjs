@@ -1,0 +1,30 @@
+.con{
+    display: flex;
+    margin-top: 1rem;
+    width: 100%;
+    padding: 0.6rem 1rem;
+    background-color: white;
+    direction: rtl;
+    border-radius: 0.8rem;
+    align-items: center;
+    user-select: none;
+}
+
+.text{
+    font-weight: 700;
+    margin-left: 1rem;
+    white-space: nowrap;
+}
+
+.btn_con{
+    height: 2.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.8rem;
+    width: 8.2rem;
+    font-size: 0.8rem;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+}

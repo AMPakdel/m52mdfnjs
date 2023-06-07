@@ -1,0 +1,33 @@
+.con{
+    width: 100%;
+    direction: rtl;
+    text-align: right;
+    padding-bottom: 0.5rem;
+}
+
+.email{
+    margin-top: 1.2rem !important;
+    width: 100% !important;
+}
+
+.title{
+    margin-top: 1.7rem !important;
+    width: 100% !important;
+}
+
+.message{
+    margin-top: 1.7rem !important;
+    width: 100% !important;
+}
+
+.row1{
+    width: 100%;
+    display: flex;
+    direction: ltr;
+    margin-top: 1.5rem;
+}
+
+.send_btn{
+    height: 2.8rem !important;
+    width: 10rem;
+}

@@ -1,0 +1,47 @@
+.mbtn_con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    border-radius: 0.85rem;
+    height: 2.2rem;
+    direction: rtl;
+    padding: 0 1rem;
+    user-select: none;
+    transition: 200ms ease;
+}
+
+.left_arrow{
+    margin-right: 0.8rem;
+}
+
+.right_arrow{
+    margin-left: 0.8rem;
+}
+
+.border_mode{
+    background-color: transparent;
+    opacity: 0.8;
+    border-style:  solid;
+    border-width: 2px;
+}
+
+.white_border{
+    background-color: transparent;
+    opacity: 0.9;
+}
+
+.more_padding{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+
+.title{
+    font-weight: 500;
+}
+
+.mbtn_con:hover{
+    /* background: rgb(251,173,22);
+    background: linear-gradient(45deg, rgba(251,173,22,1) 0%, rgba(245,223,77,1) 80%); */
+    transform: scale(1.04);
+}

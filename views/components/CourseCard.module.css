@@ -1,0 +1,58 @@
+.bcc_con{
+    width: 100%;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: row;
+    direction: rtl;
+    align-items: center;
+    padding: 0.6rem 1rem;
+    margin-top: 0.8rem;
+    margin-top: 0.8rem;
+    transition: 200ms ease;
+}
+
+.bcc_con:hover{
+    transform: scale(1.01);
+}
+
+.bcc_img{
+    height: 3.8rem;
+    width: 3.8rem;
+    border-radius: 0.4rem;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+
+.bcc_sec1{
+    margin-right: 1rem;
+    width: calc(100% - 6.6rem);
+}
+
+.bcc_title{
+    font-size: 0.98rem;
+    font-weight: 500;
+    margin-top: 0.4rem;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+
+.bcc_edu{
+    font-size: 0.7rem;
+    opacity: 0.8;
+    margin-top: 0.1rem;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+
+.bcc_settings{
+    width: 2rem;
+    height: 2rem;
+    padding: 0.3rem;
+    /* transition: 100ms ease; */
+}
+
+.bcc_settings:hover{
+    transform: scale(1.1);
+}

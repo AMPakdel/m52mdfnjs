@@ -1,0 +1,50 @@
+.con{
+    display: flex;
+    height: 8rem;
+    width: 100%;
+    padding: 1rem;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1rem;
+    background-color: #FFF;
+}
+
+.textarea{
+    height: 100%;
+    width: 100%;
+    resize: none;
+}
+
+.title{
+    position: absolute;
+    top: -1.8rem;
+    right: 0.2rem;
+    font-size: 0.86rem;
+    color: #666666;
+    user-select: none;
+}
+
+.error{
+    position: absolute;
+    bottom: -1.3rem;
+    font-size: 0.7rem;
+    right: 1rem;
+    font-weight: 500;
+    direction: rtl;
+}
+
+.tput_title{
+    font-size: 0.86rem;
+    color: #666666;
+    margin-right: 0.2rem;
+    user-select: none;
+}
+
+.top_title{
+    position: absolute;
+    background-color: white;
+    padding: 0 0.5rem;
+    top: -0.5rem;
+    right: 0.8rem;
+    font-size: 0.66rem;
+}
